@@ -27,7 +27,7 @@
 - 💬 &nbsp;Ask me about anything related to Deep Learning/IoT/Python/Django or PCB boards
 - 👨‍💻 &nbsp;Read more about my projects at [emasicollins.com](https://medium.com/@emasicollins)
 - 👯 &nbsp;I’m looking to collaborate on any ML/IoT/Electronics project
-- 📝 Check out my resume on [Resume](https://www.resume.com)
+- 📝 Check out my resume on [Resume](https://drive.google.com/file/d/1JqxSwCwymVyFZtfEqOa4s5c2T4WWnkKm/view?usp=sharing)
 
 <!--- Social medial --->
 
