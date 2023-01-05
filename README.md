@@ -24,7 +24,7 @@
 
 - 🔭 &nbsp;I like to draw and paint 🎨:
 - 🌱 &nbsp;I’m currently learning Processor design 🧑‍💻 
-- 💬 &nbsp;Ask me about anything related to Deep Learning/IoT/Python/Django or PCB boards
+- 💬 &nbsp;Ask me about anything related to Deep Learning/Embedded Systems/Python/C/C++
 - 👨‍💻 &nbsp;Read more about my projects at [emasicollins.com](https://emasicollins.me)
 - 📝 Check out my resume on [Resume](https://drive.google.com/file/d/1aQASOd_draPKrDmVuJTXLvy1F_1vOrGL/view?usp=sharing)
 
