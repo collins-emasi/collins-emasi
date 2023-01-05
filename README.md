@@ -14,7 +14,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Experienced%20ML%2FDL%20Engineer;Experienced%20IoT%20Engineer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Experienced%20ML%2FDL%20Engineer;Experienced%20Embedded%20System%20Eng;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
@@ -22,12 +22,11 @@
 <!--- Social medial --->
 <h2> 😉 Fun Facts about me </h2>
 
-- 🔭 &nbsp;I’m currently working on a FinTech Project :wink:
-- 🌱 &nbsp;I’m currently learning IoT and PCB design with KiCAD
+- 🔭 &nbsp;I like to draw and paint 🎨:
+- 🌱 &nbsp;I’m currently learning Processor design 🧑‍💻 
 - 💬 &nbsp;Ask me about anything related to Deep Learning/IoT/Python/Django or PCB boards
-- 👨‍💻 &nbsp;Read more about my projects at [emasicollins.com](https://medium.com/@emasicollins)
-- 👯 &nbsp;I’m looking to collaborate on any ML/IoT/Electronics project
-- 📝 Check out my resume on [Resume](https://drive.google.com/file/d/1JqxSwCwymVyFZtfEqOa4s5c2T4WWnkKm/view?usp=sharing)
+- 👨‍💻 &nbsp;Read more about my projects at [emasicollins.com](https://emasicollins.me)
+- 📝 Check out my resume on [Resume](https://drive.google.com/file/d/1aQASOd_draPKrDmVuJTXLvy1F_1vOrGL/view?usp=sharing)
 
 <!--- Social medial --->
 
@@ -37,9 +36,9 @@
 
 
 
- <h2> 📊 This week I spent my time on</h2>
+ <!-- <h2> 📊 This week I spent my time on</h2>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=emasicollins&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=emasicollins&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 
 ## Github Stats
 <a href='https://github.com/collins-emasi/github-stats-transparent'>
