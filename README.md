@@ -36,17 +36,19 @@
 
 
 
- <!-- <h2> 📊 This week I spent my time on</h2>
+ <h2> 📊 This week I spent my time on</h2>
+<img width=55% src="https://wakatime.com/share/@emasicollins/55d349b3-8243-44cb-9f7d-6120c3ee48b9.svg"> </img>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=emasicollins&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
+ <h2> 📊 Languages I seem to love </h2>
+<img
+  width=55% src="https://wakatime.com/share/@emasicollins/20cc9e2c-0e64-4e23-9208-16f658dfd2c0.svg">
+</img>
 
 ## Github Stats
 <a href='https://github.com/collins-emasi/github-stats-transparent'>
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=collins-emasi)
 </a>
-
-
 
 <!--
 **collins-emasi/collins-emasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
