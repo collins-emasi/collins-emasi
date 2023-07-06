@@ -36,7 +36,7 @@
 
 
 
- <h2> 📊 This week I spent my time on</h2>
+<h2> 📊 This week I spent my time on</h2>
 <img width=50% src="https://wakatime.com/share/@emasicollins/55d349b3-8243-44cb-9f7d-6120c3ee48b9.svg"> </img>
 
  <h2> 📊 Languages I seem to love </h2>
